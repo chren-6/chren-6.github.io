@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "landslid_1_catastrophic",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32650" } },
+"features": [
+{ "type": "Feature", "properties": { "OID_": -1, "source_nam": "Xinhua", "event_id": 10026, "event_date": "2017-06-24", "event_titl": "Landslide buries village of Xinmo", "location_a": "exact", "landslide_": "landslide", "landslide1": "continuous_rain", "landslid_1": "catastrophic", "latitude": 32.08087401, "longitude": 103.6656168, "admin_divi": "Sichuan" }, "geometry": { "type": "Point", "coordinates": [ 103.6656168, 32.08087401 ] } },
+{ "type": "Feature", "properties": { "OID_": -1, "source_nam": "reliefweb", "event_id": 14323, "event_date": "2018-11-03", "event_titl": "New Landslide in SW China's Tibet Autonomous Region Blocked Jinsha River", "location_a": "1km", "landslide_": "landslide", "landslide1": "dam_embankment_collapse", "landslid_1": "catastrophic", "latitude": 31.06904407, "longitude": 98.69684862, "admin_divi": "Xizang" }, "geometry": { "type": "Point", "coordinates": [ 98.69684862, 31.06904407 ] } }
+]
+}
